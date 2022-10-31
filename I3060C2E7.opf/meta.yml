@@ -1,0 +1,543 @@
+id: I3060C2E7
+legacy_id: null
+ocr_import_info:
+  bdrc_scan_id: W21521
+  source: bdrc.io
+  batch_id: batch003
+  software_id: vision
+  expected_default_language: bo
+  ocr_info: {}
+  op_import_options: {}
+  op_import_version: 0.9.7
+default_language: bo
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-10-31T09:02:57.245544+00:00'
+last_modified: '2022-10-31T09:02:57.245550+00:00'
+parser: null
+source_metadata:
+  id: http://purl.bdrc.io/resource/W21521
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW21521
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: རྙིང་མ་རྒྱུད་འབུམ ༼མཚམས་བྲག་དགོན་པའི་བྲིས་མ༽
+  languages:
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.9561015898673273
+  ocr_word_median_confidence_index: 0.99803865
+quality: null
+bases:
+  I0639:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0639
+      total_pages: 1078
+      volume_number: 36
+      volume_pages_bdrc_intro: 2
+    order: 36
+    base_file: I0639.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999869
+      ocr_word_mean_confidence_index: 0.9731127320265381
+  I0637:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0637
+      total_pages: 859
+      volume_number: 34
+      volume_pages_bdrc_intro: 2
+    order: 34
+    base_file: I0637.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99555886
+      ocr_word_mean_confidence_index: 0.9411004525294352
+  I0604:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0604
+      total_pages: 865
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I0604.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9995166
+      ocr_word_mean_confidence_index: 0.9718965302615149
+  I0645:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0645
+      total_pages: 1026
+      volume_number: 42
+      volume_pages_bdrc_intro: 2
+    order: 42
+    base_file: I0645.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9998381
+      ocr_word_mean_confidence_index: 0.9654470438975854
+  I0612:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0612
+      total_pages: 933
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I0612.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.997033875
+      ocr_word_mean_confidence_index: 0.9600031560930176
+  I0620:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0620
+      total_pages: 876
+      volume_number: 17
+      volume_pages_bdrc_intro: 2
+    order: 17
+    base_file: I0620.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.999824
+      ocr_word_mean_confidence_index: 0.973440087920622
+  I0647:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0647
+      total_pages: 1066
+      volume_number: 44
+      volume_pages_bdrc_intro: 2
+    order: 44
+    base_file: I0647.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9992399
+      ocr_word_mean_confidence_index: 0.9334029043813818
+  I0615:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0615
+      total_pages: 779
+      volume_number: 12
+      volume_pages_bdrc_intro: 2
+    order: 12
+    base_file: I0615.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99541706
+      ocr_word_mean_confidence_index: 0.9476417857749994
+  I0644:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0644
+      total_pages: 812
+      volume_number: 41
+      volume_pages_bdrc_intro: 2
+    order: 41
+    base_file: I0644.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99754345
+      ocr_word_mean_confidence_index: 0.9547986548363816
+  I0643:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0643
+      total_pages: 814
+      volume_number: 40
+      volume_pages_bdrc_intro: 2
+    order: 40
+    base_file: I0643.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99782276
+      ocr_word_mean_confidence_index: 0.9519071582949657
+  I0607:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0607
+      total_pages: 807
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I0607.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9994034
+      ocr_word_mean_confidence_index: 0.968215212415141
+  I0635:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0635
+      total_pages: 761
+      volume_number: 32
+      volume_pages_bdrc_intro: 2
+    order: 32
+    base_file: I0635.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9960553
+      ocr_word_mean_confidence_index: 0.9507672933521943
+  I0638:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0638
+      total_pages: 924
+      volume_number: 35
+      volume_pages_bdrc_intro: 2
+    order: 35
+    base_file: I0638.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99997914
+      ocr_word_mean_confidence_index: 0.9700883204290992
+  I0634:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0634
+      total_pages: 801
+      volume_number: 31
+      volume_pages_bdrc_intro: 2
+    order: 31
+    base_file: I0634.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9960125
+      ocr_word_mean_confidence_index: 0.9452569395847346
+  I0606:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0606
+      total_pages: 979
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I0606.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9992562
+      ocr_word_mean_confidence_index: 0.9658835722549778
+  I0605:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0605
+      total_pages: 875
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I0605.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.998864785
+      ocr_word_mean_confidence_index: 0.9659441103952928
+  I0624:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0624
+      total_pages: 717
+      volume_number: 21
+      volume_pages_bdrc_intro: 2
+    order: 21
+    base_file: I0624.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9936486250000001
+      ocr_word_mean_confidence_index: 0.9506480314254643
+  I0611:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0611
+      total_pages: 949
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I0611.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9982407
+      ocr_word_mean_confidence_index: 0.961677670040615
+  I0608:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0608
+      total_pages: 899
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I0608.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.997256965
+      ocr_word_mean_confidence_index: 0.9609691607180357
+  I0641:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0641
+      total_pages: 956
+      volume_number: 38
+      volume_pages_bdrc_intro: 2
+    order: 38
+    base_file: I0641.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9910264
+      ocr_word_mean_confidence_index: 0.9446315398596333
+  I0640:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0640
+      total_pages: 1108
+      volume_number: 37
+      volume_pages_bdrc_intro: 2
+    order: 37
+    base_file: I0640.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99754832
+      ocr_word_mean_confidence_index: 0.9521540163277482
+  I0631:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0631
+      total_pages: 901
+      volume_number: 28
+      volume_pages_bdrc_intro: 2
+    order: 28
+    base_file: I0631.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.98933715
+      ocr_word_mean_confidence_index: 0.9385386259454006
+  I0617:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0617
+      total_pages: 993
+      volume_number: 14
+      volume_pages_bdrc_intro: 2
+    order: 14
+    base_file: I0617.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9989583
+      ocr_word_mean_confidence_index: 0.9651293327849717
+  I0616:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0616
+      total_pages: 945
+      volume_number: 13
+      volume_pages_bdrc_intro: 2
+    order: 13
+    base_file: I0616.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9975666
+      ocr_word_mean_confidence_index: 0.9614599240940218
+  I0619:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0619
+      total_pages: 819
+      volume_number: 16
+      volume_pages_bdrc_intro: 2
+    order: 16
+    base_file: I0619.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.998970535
+      ocr_word_mean_confidence_index: 0.9659783019293815
+  I0609:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0609
+      total_pages: 813
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I0609.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9956759
+      ocr_word_mean_confidence_index: 0.9560934825443368
+  I0642:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0642
+      total_pages: 1040
+      volume_number: 39
+      volume_pages_bdrc_intro: 2
+    order: 39
+    base_file: I0642.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9996502
+      ocr_word_mean_confidence_index: 0.9657023116967565
+  I0623:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0623
+      total_pages: 719
+      volume_number: 20
+      volume_pages_bdrc_intro: 2
+    order: 20
+    base_file: I0623.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99039112
+      ocr_word_mean_confidence_index: 0.9391443144490895
+  I0646:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0646
+      total_pages: 900
+      volume_number: 43
+      volume_pages_bdrc_intro: 2
+    order: 43
+    base_file: I0646.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9995081
+      ocr_word_mean_confidence_index: 0.9640060863125426
+  I0648:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0648
+      total_pages: 982
+      volume_number: 45
+      volume_pages_bdrc_intro: 2
+    order: 45
+    base_file: I0648.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9979546
+      ocr_word_mean_confidence_index: 0.9534659162711632
+  I0621:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0621
+      total_pages: 971
+      volume_number: 18
+      volume_pages_bdrc_intro: 2
+    order: 18
+    base_file: I0621.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9995929
+      ocr_word_mean_confidence_index: 0.967229662639138
+  I0636:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0636
+      total_pages: 931
+      volume_number: 33
+      volume_pages_bdrc_intro: 2
+    order: 33
+    base_file: I0636.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9974572349999999
+      ocr_word_mean_confidence_index: 0.9505613824255791
+  I0622:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0622
+      total_pages: 1015
+      volume_number: 19
+      volume_pages_bdrc_intro: 2
+    order: 19
+    base_file: I0622.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99523868
+      ocr_word_mean_confidence_index: 0.9492559085000819
+  I0632:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0632
+      total_pages: 1025
+      volume_number: 29
+      volume_pages_bdrc_intro: 2
+    order: 29
+    base_file: I0632.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9864464
+      ocr_word_mean_confidence_index: 0.9307217302342007
+  I0614:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0614
+      total_pages: 817
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I0614.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99808514
+      ocr_word_mean_confidence_index: 0.958341967990455
+  I0629:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0629
+      total_pages: 1083
+      volume_number: 26
+      volume_pages_bdrc_intro: 2
+    order: 26
+    base_file: I0629.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99568665
+      ocr_word_mean_confidence_index: 0.9470861379821451
+  I0618:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0618
+      total_pages: 799
+      volume_number: 15
+      volume_pages_bdrc_intro: 2
+    order: 15
+    base_file: I0618.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99898565
+      ocr_word_mean_confidence_index: 0.9648684934580384
+  I0633:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0633
+      total_pages: 733
+      volume_number: 30
+      volume_pages_bdrc_intro: 2
+    order: 30
+    base_file: I0633.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9970937
+      ocr_word_mean_confidence_index: 0.9530993423717931
+  I0628:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0628
+      total_pages: 805
+      volume_number: 25
+      volume_pages_bdrc_intro: 2
+    order: 25
+    base_file: I0628.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99763113
+      ocr_word_mean_confidence_index: 0.9537377190331793
+  I0610:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0610
+      total_pages: 1001
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I0610.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99326229
+      ocr_word_mean_confidence_index: 0.9520462515100425
+  I0625:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0625
+      total_pages: 831
+      volume_number: 22
+      volume_pages_bdrc_intro: 2
+    order: 22
+    base_file: I0625.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9952941
+      ocr_word_mean_confidence_index: 0.9562282829519291
+  I0626:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0626
+      total_pages: 815
+      volume_number: 23
+      volume_pages_bdrc_intro: 2
+    order: 23
+    base_file: I0626.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99760535
+      ocr_word_mean_confidence_index: 0.9571974060178478
+  I0627:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0627
+      total_pages: 985
+      volume_number: 24
+      volume_pages_bdrc_intro: 2
+    order: 24
+    base_file: I0627.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.995678035
+      ocr_word_mean_confidence_index: 0.9466343871729647
+  I0630:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0630
+      total_pages: 1181
+      volume_number: 27
+      volume_pages_bdrc_intro: 2
+    order: 27
+    base_file: I0630.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99743135
+      ocr_word_mean_confidence_index: 0.9528006727929028
+  I0613:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0613
+      total_pages: 923
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I0613.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9967799
+      ocr_word_mean_confidence_index: 0.9554512220954962
+  I0649:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I0649
+      total_pages: 778
+      volume_number: 46
+      volume_pages_bdrc_intro: 2
+    order: 46
+    base_file: I0649.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9999906
+      ocr_word_mean_confidence_index: 0.967882375850483
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
